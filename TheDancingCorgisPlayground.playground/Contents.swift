@@ -45,3 +45,8 @@ result = ((ah+am)*h)/(z-am)
 
 print("Hello World")
 print("I love Swift programming! 💕❤️🚀")
+
+print("I love my mom and dad 👨‍👩‍👧‍👦 ❤️")
+
+print("My family is the best family ever!")
+print("My favorite ice cream is vanilla")
