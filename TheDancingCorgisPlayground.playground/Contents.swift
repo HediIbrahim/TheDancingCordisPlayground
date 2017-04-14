@@ -3,13 +3,26 @@
 import UIKit
 
 var str = "Hello, playground"
+var favoritColor = "Light pink"
 
 print("Hello world")
-print("My favorite color is Light pink")
+print("My favorite color is \(favoritColor)")
 print(str)
+
+
+
+favoritColor = "Cyan"
+print("My another favorite color is \(favoritColor)")
+
+let herFavoritColor = UIColor.blue
 
 str = "I love corgis"
 print(str)
+
+var corgisName = "Pika"
+
+print("My lovely pet corgi's name is \(corgisName)") // string interpolation
+
 
 6+4
 9-0
@@ -26,3 +39,9 @@ result = ah*am
 
 result+=am
 result*=am
+result/=5
+
+result = ((ah+am)*h)/(z-am)
+
+print("Hello World")
+print("I love Swift programming! 💕❤️🚀")
