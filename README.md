@@ -1,2 +1,2 @@
 # TheDancingCorgisPlayground
-ChaptersOneTwoThreePlayground
+Chapters 1-3
